@@ -8,7 +8,7 @@ The Conventional Random Bits Generator core requires high power consumption for 
 
 The Proposed PRBS introduces an architecture that efficiently generates four uncorrelated maximum length random sequences using fewer building blocks. It aims to reduce required building blocks compared to conventional one. This advancement is verified using verilog synthesis and hardware realization on the FPGA Board.
 
-# The specific code and circuit diagram of the proposed PRBS cannot be shared due to copyright constraints. However, the resulting output waveform from this PRBS design is available for review and analysis.
+The specific code and circuit diagram of the proposed PRBS cannot be shared due to copyright constraints. However, the resulting output waveform from this PRBS design is available for review and analysis.
 
 
 
